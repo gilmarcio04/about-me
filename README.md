@@ -72,7 +72,7 @@ Gerenciamento da infraestrutura em Cloud (AWS, Azure, OCI e GCP) desenvolvimento
 
 ##### DevOps Engineer - Maio 2019 - Agosto 2019
 
-Implantação de esteira DevOps e automação de scripts, IaC e administração do ambiente em Cloud (AWS, Azure e IBM) Suporte n3 nas eventuais falhas na plataforma, desenvolvimento de rotinas e procedimentos para equipe de n2, melhoria continua no gerenciamento da plataforma Web buscando novas soluções no mercado, auxílio a equipe de Desenvolvimento para troubleshooting de problemas, tunning de servidores, orquestração de ambientes com contâiners Docker.
+Implantação de esteira DevOps e automação de scripts, IaC e administração do ambiente em Cloud (AWS, Azure e IBM) Suporte n3 nas eventuais falhas na plataforma, desenvolvimento de rotinas e procedimentos para equipe de n2, melhoria continua no gerenciamento da plataforma Web buscando novas soluções no mercado, auxílio a equipe de Desenvolvimento para troubleshooting de problemas, tunning de servidores, orquestração de ambientes com contâiners Docker.zdgrsrthbtgf
 
 ---
 ### Formação
